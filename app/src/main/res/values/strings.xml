@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pokemon Consumer</string>
+    <string name="pokemon_logo">Pokemon Logo</string>
+
+    <!--Buttons Text-->
+    <string name="random_pokemon">Random Pokemon</string>
+    <string name="search_pokemon">Search Pokemon</string>
 </resources>
