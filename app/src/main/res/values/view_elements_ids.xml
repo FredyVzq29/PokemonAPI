@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="random_button_id">ui_main_button_random</string>
+    <string name="search_button_id">ui_main_button_search</string>
+</resources>
